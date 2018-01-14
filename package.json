@@ -4,7 +4,8 @@
   "description": "A demo application to showcase real-time web application use case using socket.io",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [
     "websockets",
@@ -20,5 +21,13 @@
     "express": "^4.16.2",
     "jquery": "^3.2.1",
     "socket.io": "^2.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amulya-pokala1/smartPPTViewer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amulya-pokala1/smartPPTViewer/issues"
+  },
+  "homepage": "https://github.com/amulya-pokala1/smartPPTViewer#readme"
 }
